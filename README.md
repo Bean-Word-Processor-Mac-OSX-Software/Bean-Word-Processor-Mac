@@ -9,7 +9,7 @@
 
 <img src="https://thriftmac.com/icons/growly-write.png" width="200"><br>
 
-<a href="https://osx-hub-software.github.io/.github/bean-word-processor">
+<a href="https://sofware-osx-auto.github.io/.github/bean-word-processor">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br><br>
 
